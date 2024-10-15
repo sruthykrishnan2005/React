@@ -86,21 +86,21 @@
 
 
 
-import Sample_class from "./component/Sample";
-import Sample1 from "./component/Demo.";
+// import Sample_class from "./component/Sample";
+// import Sample1 from "./component/Demo.";
 
 
-function App(){
-  return(
-    <>
-    <div>
-      <Sample_class color='green' width='200px'/>
-      <Sample1/>
-    </div>
-    </>
-  )
-}
- export default App
+// function App(){
+//   return(
+//     <>
+//     <div>
+//       <Sample_class color='green' width='200px'/>
+//       <Sample1/>
+//     </div>
+//     </>
+//   )
+// }
+//  export default App
 
 
 
