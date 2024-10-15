@@ -1,4 +1,4 @@
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,4 +39,39 @@
 
 .read-the-docs {
   color: #888;
+} */
+
+
+
+
+.navbar {
+  background-color: #333;
+  padding: 10px;
+}
+
+.nav-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav-list li {
+  margin-right: 20px;
+}
+
+.nav-list a {
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+}
+
+.nav-list a:hover {
+  background-color: #575757;
+  border-radius: 4px;
+}
+
+.active {
+  font-weight: bold;
+  border-bottom: 2px solid #fff;
 }
